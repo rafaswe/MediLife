@@ -1,0 +1,12 @@
+.custom-header-text-color{
+    color:rgb(129, 36, 36);
+}
+.login-btn{
+    border: 1px solid blue;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.login-btn:hover{
+    background-color: blue;
+    color: white;
+}

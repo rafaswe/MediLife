@@ -1,0 +1,13 @@
+.hService{
+    transition: 0.5s;
+    overflow: hidden;
+}
+.hService:hover{
+box-shadow: 5px 5px 5px 5px gray;
+}
+.hService-img{
+    transition: 0.5s;
+}
+.hService:hover .hService-img{
+transform: scale(1.1);
+}

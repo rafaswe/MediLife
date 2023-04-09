@@ -1,0 +1,22 @@
+.banner{
+    margin: 0;
+  background: rgba(0,0,0,0.7) url("../../Assets/Image/Background.jpg");
+  background-size: cover;
+  background-blend-mode: darken;
+  background-attachment: fixed;
+    height: 100vh;
+}
+.bannerText{
+    height: 70vh;
+}
+.banner-heading{ 
+    font-size: 3.5rem;   
+}
+.custom-btn{
+    border: 2px solid brown;
+    transition: 0.5s;
+}
+.custom-btn:hover{
+    background-color: brown;
+    transform: scale(1.1);
+}

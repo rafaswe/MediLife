@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "Eye Care",
+        "img": "https://imgk.timesnownews.com/story/1553264242-eyes.PNG?tr=w-400,h-300,fo-auto",
+        "text": "As the eye care sector was growing rapidly in Bangladesh, a specialized hospital for the treatment of eye related diseases was much needed. It is the best eye care institute of the country.",
+        "price": "200-250"
+    },
+    {
+        "id": "2",
+        "name": "Medical Checkup",
+        "img": "https://www.cubaheal.com/wp-content/uploads/2019/12/medical-checkup.jpg",
+        "text": "In a physical examination, medical examination, or clinical examination, a medical practitioner examines a patient for any possible medical signs or symptoms of a medical condition.",
+        "price": "500-1000"
+    },
+    {
+        "id": "3",
+        "name": "Dental Care",
+        "img": "https://static.toiimg.com/thumb/msid-79085056,width-800,height-600,resizemode-75,imgsize-750180,pt-32,y_pad-40/79085056.jpg",
+        "text": "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems by regular brushing of the teeth and cleaning between the teeth. ",
+        "price": "200-250"
+    },
+    {
+        "id": "4",
+        "name": "Cardiology",
+        "img": "https://www.journalajcr.com/public/journals/56/homepageImage_en_US.jpg",
+        "text": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system.",
+        "price": "1000"
+    },
+    {
+        "id": "5",
+        "name": "Laboratory Facilities",
+        "img": "https://www.aquacare.nl/templates/yootheme/cache/Legionella-analyses2-810c2a3d.jpeg",
+        "text": "Laboratory Facility means the use of a building for conducting scientific or medical research, experimentation or diagnostic work.",
+        "price": "500-3000"
+    },
+    {
+        "id": "6",
+        "name": "Vaccination",
+        "img": "https://hrmasia.com/wp-content/uploads/2021/04/141028536_m.jpg",
+        "text": "A vaccine is a biological preparation that provides active acquired immunity to a particular infectious disease. ",
+        "price": "100"
+    },
+    {
+        "id": "7",
+        "name": "Mental Health",
+        "img": "https://www.incimages.com/uploaded_files/image/1920x1080/shutterstock_619960997_360000.jpg",
+        "text": "Mental health, a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully",
+        "price": "1000"
+    },
+    {
+        "id": "8",
+        "name": "24/7 Availability",
+        "img": "https://pi-dubai.com/wp-content/uploads/2017/07/247.gif",
+        "text": "We will provide our services at any time you want",
+        "price": "100"
+    },
+    {
+        "id": "9",
+        "name": "Ambulance",
+        "img": "https://thumbs.dreamstime.com/b/ambulance-kuala-lumpur-international-airport-rd-january-medilife-ambulance-standby-emergency-airport-107095791.jpg",
+        "text": "We provide ambulance transfers to / from hospital. We also provide ambulance response services, emergency and routine pre hospital patient care and patient transport services in a timely quality manner, across the nation, 24 hours a day and 365 days a year.",
+        "price": "100-5000"
+    }
+]

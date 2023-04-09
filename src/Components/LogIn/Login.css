@@ -1,0 +1,23 @@
+.form-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: lightgrey;
+}
+.form-color{
+    background-color: white;
+    border-radius: 15px;
+    padding: 40px;
+    margin:20px 40px;
+    box-shadow: 11px 11px 24px 4px rgba(0,0,0,0.79);
+    -webkit-box-shadow: 11px 11px 24px 4px rgba(0,0,0,0.79);
+    -moz-box-shadow: 11px 11px 24px 4px rgba(0,0,0,0.79);       
+}
+.form-style input{
+    border: none;
+    margin: 15px;
+    background-color: rgb(216, 213, 213);
+    padding: 8px;
+    border-radius: 15px;
+}
